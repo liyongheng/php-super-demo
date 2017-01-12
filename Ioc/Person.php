@@ -21,7 +21,7 @@ class Person
 
 }
 
-Container::bind('iPad', function () {
+Container::bind('ipad', function () {
     return new iPad;
 });
 
@@ -30,5 +30,9 @@ Container::bind('iphone', function () {
 });
 
 
+$iPad = Container::make('ipad');
+$iPad->play();
+
 $iPad = Container::make('iphone');
 $iPad->play();
+
