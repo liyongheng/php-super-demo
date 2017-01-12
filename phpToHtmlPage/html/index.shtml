@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>首页</title>
+</head>
+<body>
+	<h1>首页列表</h1>
+
+	<ul>
+
+	
+		<li>
+			<span>姓名:zhangsan</span>
+			<span>年龄:18</span>
+			<span>工作:PHP</span>
+		</li>
+
+	
+		<li>
+			<span>姓名:lisi</span>
+			<span>年龄:20</span>
+			<span>工作:Java</span>
+		</li>
+
+	
+		<li>
+			<span>姓名:wangwu</span>
+			<span>年龄:30</span>
+			<span>工作:Python</span>
+		</li>
+
+	
+	</ul>
+
+
+</body>
+</html>
+
+
