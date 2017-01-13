@@ -39,6 +39,6 @@ Container::bind('iphone', function () {
 $iPad = Container::make('ipad');
 $iPad->play();
 
-$iPad = Container::make('iphone');
-$iPad->play();
+$iPhone = Container::make('iphone');
+$iPhone->play();
 
