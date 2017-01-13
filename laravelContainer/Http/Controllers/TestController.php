@@ -1,7 +1,10 @@
 <?php
-
+/**
+ * laravel Container TestDemo
+ * author:liyongheng
+ * date:2017.01.14 01:14
+ */
 namespace App\Http\Controllers;
-
 use Illuminate\Http\Request;
 
 class TestController extends Controller

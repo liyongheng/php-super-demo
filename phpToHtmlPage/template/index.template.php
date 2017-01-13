@@ -1,6 +1,8 @@
 <?php  
 /**
  * index.php 静态化模板文件
+ * author:liyongheng
+ * date:2017.01.14 01:17
  */
 ?>
 <!DOCTYPE html>

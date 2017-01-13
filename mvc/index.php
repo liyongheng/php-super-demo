@@ -1,7 +1,6 @@
 <?php  
 /**
  * Description  项目单一入口,做手机和pc跳转。
- * @link 		http://www.uugeek.com
  * @author 		liyongheng
  * @date 		2016.04.01
  **/

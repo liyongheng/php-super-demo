@@ -1,6 +1,9 @@
 <?php  
-//首页控制器
-//@author liyongheng
+/**
+ * index conroller
+ * author:liyongheng
+ * date:2017.01.14 01:14
+ */
 class indexctl{
 
 	public function index(){

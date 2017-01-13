@@ -1,5 +1,9 @@
 <?php  
-//首页控制器
+/**
+ * 首页控制器 
+ * author:liyongheng
+ * date:2017.01.14 01:17
+ */
 
 $host = $_SERVER['HTTP_HOST'];
 $file = $_SERVER['PHP_SELF'];

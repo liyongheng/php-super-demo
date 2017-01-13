@@ -1,7 +1,9 @@
 <?php  
 /**
- * model base object
- **/
+ * class model
+ * author:liyongheng
+ * date:2017.01.14 01:14
+ */
 
 class model{
 

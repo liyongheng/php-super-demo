@@ -2,6 +2,7 @@
 /**
  * implements ArrayAccess
  * @author liyongheng
+ * @date:2017.01.14
  */
 class arrayAcs implements ArrayAccess
 {

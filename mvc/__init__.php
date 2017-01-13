@@ -1,7 +1,6 @@
 <?php  
 /**
  * Description  统一入口文件
- * @link 		http://www.uugeek.com
  * @author 		liyongheng
  * @date 		2016.04.01
  **/

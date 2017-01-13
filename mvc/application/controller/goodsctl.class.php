@@ -1,4 +1,9 @@
 <?php  
+/**
+ * goods conroller
+ * author:liyongheng
+ * date:2017.01.14 01:14
+ */
 class goodsctl{
 	public function index(){
 		$goods_model = new goodsmodel();

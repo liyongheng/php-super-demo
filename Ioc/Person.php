@@ -1,4 +1,10 @@
 <?php
+/**
+ * class Person
+ * author:liyongheng
+ * date:2017.01.14 01:14
+ */
+
 require 'Ipad.php';
 require 'Iphone.php';
 require 'Container.php';
