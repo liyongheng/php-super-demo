@@ -13,3 +13,6 @@ Ability is limited, please advise the inadequacies.
 
 五、添加laravelContainer Demo 2017.01.14 1:14
 
+六、添加Decorator Demo 2017.01.15 16:22
+
+
